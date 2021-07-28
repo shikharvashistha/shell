@@ -1,4 +1,6 @@
-/*//Shell is bascially a program that presents a prompt to user and user 
+/*
+This shell code runs in linux
+//Shell is bascially a program that presents a prompt to user and user 
 //enters a command and parameter and it uses a fork to create a child
 //an another shell (duplicate) the child executes the command along or 
 //parllely then exists while the parent wait for the child to finish 
