@@ -12,7 +12,7 @@ This shell code runs in linux
 #include<string.h>
 
 void read_command(char cmd[], char *par[]){
-    char line[1024];
+    char line[1024]; 
     int count = 0, i=0, j=0;
     char *array[100], *pch;
 
