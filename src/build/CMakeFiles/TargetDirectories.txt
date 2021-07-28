@@ -1,0 +1,4 @@
+/workspace/shell/src/build/CMakeFiles/rebuild_cache.dir
+/workspace/shell/src/build/CMakeFiles/edit_cache.dir
+/workspace/shell/src/build/CMakeFiles/test.dir
+/workspace/shell/src/build/CMakeFiles/a.dir
